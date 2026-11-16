@@ -5,7 +5,7 @@ Plataforma web de auditoría de scripts de mitigación evaluados con la metodolo
 # Equipo
 - Pérez Cortés María Grissel (Líder de equipo)
 - Hernández Hernández Jorge Alberto (Integrante 1)
-- Cortés Herández Luis Daniel (Integrante 2)
+- Cortés Hernández Luis Daniel (Integrante 2)
 
 # Estructura del proyecto
 - `backend/`: API, autenticación, base de datos y motor de auditoría.
